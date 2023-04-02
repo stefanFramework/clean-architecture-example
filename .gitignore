@@ -1,0 +1,9 @@
+# Custom files to be ignored
+.idea/*
+.DS_Store
+app/node_modules/*
+
+db/data/*
+!db/.gitkeep
+
+
